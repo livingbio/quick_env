@@ -54,3 +54,5 @@ user-agents
 webapp2
 webob
 webtest
+ipython
+pdbpp
