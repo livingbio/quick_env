@@ -15,7 +15,6 @@ djangorestframework
 django-xadmin
 fake-factory
 gcloud
-gcloudorm
 google-api-python-client
 html5lib
 httplib2
@@ -57,3 +56,4 @@ webob
 webtest
 ipython
 pdbpp
+gcloudorm
