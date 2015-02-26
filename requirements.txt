@@ -59,5 +59,4 @@ pdbpp
 -e git+git://github.com/Tagtoo/gcloud-python.git@master#egg=gcloud
 -e git+git://github.com/Tagtoo/ndb-utils.git@master#egg=ndb-utils
 -e git+git://github.com/Tagtoo/pyslack.git@master#egg=pyslack
--e git+git://github.com/littleq0903/django-gcloud-storage@master#egg=djagno-gcloud-storage
-
+-e git://github.com/Tagtoo/django-gcloud-storage@master#egg=django-gcloud-storage
