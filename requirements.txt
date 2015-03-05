@@ -55,8 +55,8 @@ webob
 webtest
 ipython
 pdbpp
+gcloud
 -e git+git://github.com/lucemia/gcloud-python-orm.git@master#egg=gcloudorm
--e git+git://github.com/Tagtoo/gcloud-python.git@master#egg=gcloud
 -e git+git://github.com/Tagtoo/ndb-utils.git@master#egg=ndb-utils
 -e git+git://github.com/Tagtoo/pyslack.git@master#egg=pyslack
 -e git://github.com/Tagtoo/django-gcloud-storage@master#egg=django-gcloud-storage
