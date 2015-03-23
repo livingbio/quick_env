@@ -5,7 +5,7 @@ clime
 coverage
 cssmin
 cssselect
-django==1.5
+django==1.6.3
 django-aggregate-if
 django-dirtyfields
 django-filter
