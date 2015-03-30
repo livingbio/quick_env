@@ -56,6 +56,7 @@ webtest
 ipython
 pdbpp
 gcloud
+facebookads
 -e git+git://github.com/lucemia/gcloud-python-orm.git@master#egg=gcloudorm
 -e git+git://github.com/Tagtoo/ndb-utils.git@master#egg=ndb-utils
 -e git+git://github.com/Tagtoo/pyslack.git@master#egg=pyslack
