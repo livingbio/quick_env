@@ -21,4 +21,4 @@ RUN easy_install pip
 
 ADD requirements.txt /tmp/requirements.txt
 RUN pip install -r /tmp/requirements.txt
-RUN echo 'success'
+RUN apt-get install -y uwsgi
