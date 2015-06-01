@@ -3,7 +3,7 @@ beautifulsoup
 beautifulsoup4>=4.3.2
 clime
 coverage
-cssmin
+rcssmin
 cssselect
 django==1.6.3
 django-aggregate-if
@@ -20,7 +20,7 @@ httplib2
 httpretty
 huey
 Jinja2
-jsmin
+rjsmin
 jsonfield
 lxml
 mock
