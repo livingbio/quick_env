@@ -1,62 +1,298 @@
-backlash
-beautifulsoup
+# Standalone WebOb port of the Werkzeug Debugger with Python3 support meant to replace WebError in future TurboGears2
+# https://pypi.python.org/pypi/backlash/0.1.1
+backlash==0.1.1
+
+
+# HTML/XML parser for quick-turnaround applications like screen-scraping.
+# https://pypi.python.org/pypi/BeautifulSoup/3.2.1
+BeautifulSoup==3.2.1
+
+
+# Screen-scraping library
+# https://pypi.python.org/pypi/beautifulsoup4/4.3.2
 beautifulsoup4>=4.3.2
-clime
-coverage
-rcssmin
-cssselect
-django==1.6.3
-django-aggregate-if
-django-dirtyfields
-django-filter
-django-guardian
-django-nose
-djangorestframework
-django-xadmin
-fake-factory
-google-api-python-client
-html5lib
-httplib2
-httpretty
-huey
-Jinja2
-rjsmin
-jsonfield
-lxml
-mock
-mox
-MySQL-python
-nose
-nose-cov
-oauth2client
-Pillow
-protobuf
-pycrypto
-pymysql
-python-openid
-python-social-auth
-pyyaml
-redis
-requests
-requests-mock
-requests-oauthlib
-schema
-six
-slimit
-south
-sure
-testfixtures
-ua-parser
-unicodecsv
-unittest2
-user-agents
-webapp2
-webob
-webtest
-ipython
-pdbpp
+
+
+# Convert functions into multi-command program breezily.
+# https://pypi.python.org/pypi/clime/0.3.1
+clime==0.3.1
+
+
+# Code coverage measurement for Python
+# https://pypi.python.org/pypi/coverage/4.1b2
+coverage==4.1b2
+
+
+# CSS Minifier
+# https://pypi.python.org/pypi/rcssmin/1.0.6
+rcssmin==1.0.6
+
+
+# cssselect parses CSS3 Selectors and translates them to XPath 1.0
+# https://pypi.python.org/pypi/cssselect/0.9.1
+cssselect==0.9.1
+
+
+# A high-level Python Web framework that encourages rapid development and clean, pragmatic design.
+# https://pypi.python.org/pypi/Django/1.6.3
+Django==1.6.3
+
+
+# Conditional aggregates for Django, just like the famous SumIf in Excel.
+# https://pypi.python.org/pypi/django-aggregate-if/0.5
+django-aggregate-if==0.5
+
+
+# Tracking dirty fields on a Django model instance (actively maintained)
+# https://pypi.python.org/pypi/django-dirtyfields/0.8.1
+django-dirtyfields==0.8.1
+
+
+# Django-filter is a reusable Django application for allowing users to filter querysets dynamically.
+# https://pypi.python.org/pypi/django-filter/0.12.0
+django-filter==0.12.0
+
+
+# Implementation of per object permissions for Django.
+# https://pypi.python.org/pypi/django-guardian/1.4.1
+django-guardian==1.4.1
+
+
+# Makes your Django tests simple and snappy
+# https://pypi.python.org/pypi/django-nose/1.4.3
+django-nose==1.4.3
+
+
+# Web APIs for Django, made easy.
+# https://pypi.python.org/pypi/djangorestframework/3.3.2
+djangorestframework==3.3.2
+
+
+# Drop-in replacement of Django admin comes with lots of goodies, fully extensible with plugin support, pretty UI based on Twitter Bootstrap.
+# https://pypi.python.org/pypi/django-xadmin/0.5.0
+django-xadmin==0.5.0
+
+
+# Faker is a Python package that generates fake data for you.
+# https://pypi.python.org/pypi/fake-factory/0.5.3
+fake-factory==0.5.3
+
+
+# Google API Client Library for Python
+# https://pypi.python.org/pypi/google-api-python-client/1.4.2
+google-api-python-client==1.4.2
+
+
+# HTML parser based on the WHATWG HTML specification
+# https://pypi.python.org/pypi/html5lib/0.9999999
+html5lib==0.9999999
+
+
+# A comprehensive HTTP client library.
+# https://pypi.python.org/pypi/httplib2/0.9.2
+httplib2==0.9.2
+
+
+# HTTP client mock for Python
+# https://pypi.python.org/pypi/httpretty/0.8.14
+httpretty==0.8.14
+
+
+# huey, a little task queue
+# https://pypi.python.org/pypi/huey/1.1.0
+huey==1.1.0
+
+
+# A small but fast and easy to use stand-alone template engine written in pure python.
+# https://pypi.python.org/pypi/Jinja2/2.8
+Jinja2==2.8
+
+
+# Javascript Minifier
+# https://pypi.python.org/pypi/rjsmin/1.0.12
+rjsmin==1.0.12
+
+
+# A reusable Django field that allows you to store validated JSON in your model.
+# https://pypi.python.org/pypi/jsonfield/1.0.3
+jsonfield==1.0.3
+
+
+# Powerful and Pythonic XML processing library combining libxml2/libxslt with the ElementTree API.
+# https://pypi.python.org/pypi/lxml/3.5.0
+lxml==3.5.0
+
+
+# Rolling backport of unittest.mock for all Pythons
+# https://pypi.python.org/pypi/mock/1.3.0
+mock==1.3.0
+
+
+# Mock object framework
+# https://pypi.python.org/pypi/mox/0.5.3
+mox==0.5.3
+
+
+# Python interface to MySQL
+# https://pypi.python.org/pypi/MySQL-python/1.2.5
+MySQL-python==1.2.5
+
+
+# nose extends unittest to make testing easier
+# https://pypi.python.org/pypi/nose/1.3.7
+nose==1.3.7
+
+
+# nose plugin for coverage reporting, including subprocesses and multiprocessing
+# https://pypi.python.org/pypi/nose-cov/1.6
+nose-cov==1.6
+
+
+# OAuth 2.0 client library
+# https://pypi.python.org/pypi/oauth2client/1.5.2
+oauth2client==1.5.2
+
+
+# Python Imaging Library (Fork)
+# https://pypi.python.org/pypi/Pillow/3.1.0
+Pillow==3.1.0
+
+
+# Protocol Buffers
+# https://pypi.python.org/pypi/protobuf/3.0.0b2
+protobuf==3.0.0b2
+
+
+# Cryptographic modules for Python.
+# https://pypi.python.org/pypi/pycrypto/2.6.1
+pycrypto==2.6.1
+
+
+# Pure Python MySQL Driver
+# https://pypi.python.org/pypi/PyMySQL/0.7.1
+PyMySQL==0.7.1
+
+
+# OpenID support for servers and consumers.
+# https://pypi.python.org/pypi/python-openid/2.2.5
+python-openid==2.2.5
+
+
+# Python social authentication made simple.
+# https://pypi.python.org/pypi/python-social-auth/0.2.14
+python-social-auth==0.2.14
+
+
+# YAML parser and emitter for Python
+# https://pypi.python.org/pypi/PyYAML/3.11
+PyYAML==3.11
+
+
+# Python client for Redis key-value store
+# https://pypi.python.org/pypi/redis/2.10.5
+redis==2.10.5
+
+
+# Python HTTP for Humans.
+# https://pypi.python.org/pypi/requests/2.9.1
+requests==2.9.1
+
+
+# Mock out responses from the requests package
+# https://pypi.python.org/pypi/requests-mock/0.7.0
+requests-mock==0.7.0
+
+
+# OAuthlib authentication support for Requests.
+# https://pypi.python.org/pypi/requests-oauthlib/0.6.0
+requests-oauthlib==0.6.0
+
+
+# Simple data validation library
+# https://pypi.python.org/pypi/schema/0.4.0
+schema==0.4.0
+
+
+# Python 2 and 3 compatibility utilities
+# https://pypi.python.org/pypi/six/1.10.0
+six==1.10.0
+
+
+# SlimIt - JavaScript minifier
+# https://pypi.python.org/pypi/slimit/0.8.1
+slimit==0.8.1
+
+
+# South: Migrations for Django
+# https://pypi.python.org/pypi/South/1.0.2
+South==1.0.2
+
+
+# utility belt for automated testing in python for python
+# https://pypi.python.org/pypi/sure/1.2.24
+sure==1.2.24
+
+
+# A collection of helpers and mock objects for unit tests and doc tests.
+# https://pypi.python.org/pypi/testfixtures/4.7.0
+testfixtures==4.7.0
+
+
+# Python port of Browserscope's user agent parser
+# https://pypi.python.org/pypi/ua-parser/0.6.1
+ua-parser==0.6.1
+
+
+# Python2's stdlib csv module is nice, but it doesn't support unicode. This module is a drop-in replacement which *does*.
+# https://pypi.python.org/pypi/unicodecsv/0.14.1
+unicodecsv==0.14.1
+
+
+# The new features in unittest backported to Python 2.4+.
+# https://pypi.python.org/pypi/unittest2/1.1.0
+unittest2==1.1.0
+
+
+# A library to identify devices (phones, tablets) and their capabilities by parsing (browser/HTTP) user agent strings
+# https://pypi.python.org/pypi/user-agents/1.0.1
+user-agents==1.0.1
+
+
+# Taking Google App Engine's webapp to the next level!
+# https://pypi.python.org/pypi/webapp2/2.5.2
+webapp2==2.5.2
+
+
+# WSGI request and response object
+# https://pypi.python.org/pypi/WebOb/1.6.0a0
+WebOb==1.6.0a0
+
+
+# Helper to test WSGI applications
+# https://pypi.python.org/pypi/WebTest/2.0.20
+WebTest==2.0.20
+
+
+# IPython: Productive Interactive Computing
+# https://pypi.python.org/pypi/ipython/4.1.0rc2
+ipython==4.1.0rc2
+
+
+# pdb++, a drop-in replacement for pdb
+# https://pypi.python.org/pypi/pdbpp/0.8.3
+pdbpp==0.8.3
+
+
+# API Client library for Google Cloud
+# https://pypi.python.org/pypi/gcloud/0.4.1
 gcloud==0.4.1
-facebookads
+
+
+# Facebook Ads API SDK
+# https://pypi.python.org/pypi/facebookads/2.5.1
+facebookads==2.5.1
+
+
 -e git://github.com/lucemia/gcloud-python-orm.git@0.4.1#egg=gcloudorm
 -e git+git://github.com/Tagtoo/ndb-utils.git@master#egg=ndb-utils
 -e git+git://github.com/Tagtoo/pyslack.git@master#egg=pyslack
