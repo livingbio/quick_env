@@ -35,7 +35,7 @@ cssselect==0.9.1
 
 # A high-level Python Web framework that encourages rapid development and clean, pragmatic design.
 # https://pypi.python.org/pypi/Django/1.6.3
-Django==1.6.3
+Django==4.2.30
 
 
 # Conditional aggregates for Django, just like the famous SumIf in Excel.
