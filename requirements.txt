@@ -120,7 +120,7 @@ jsonfield==1.0.3
 
 # Powerful and Pythonic XML processing library combining libxml2/libxslt with the ElementTree API.
 # https://pypi.python.org/pypi/lxml/3.5.0
-lxml==3.5.0
+lxml==6.1.0
 
 
 # Rolling backport of unittest.mock for all Pythons
