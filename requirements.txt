@@ -160,7 +160,7 @@ Pillow==3.1.0
 
 # Protocol Buffers
 # https://pypi.python.org/pypi/protobuf/3.0.0b2
-protobuf==3.0.0b2
+protobuf==5.29.6
 
 
 # Cryptographic modules for Python.
